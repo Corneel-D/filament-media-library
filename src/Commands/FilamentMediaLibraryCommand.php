@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace CorneelD\FilamentMediaLibrary\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentMediaLibraryCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-media-library';
 
     public $description = 'My command';
 
